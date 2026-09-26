@@ -4,8 +4,7 @@ const Navbar = () => {
   const [menu, setMenu] = useState(false);
 
   return (
-    <nav className="relative flex items-center justify-between bg-slate-800 px-6 py-5 text-white md:px-8">
-
+<nav className="fixed top-0 left-0 z-50 w-full flex items-center justify-between bg-slate-800 px-6 py-5 text-white md:px-8">
       {/* Logo */}
       <h1 className="font-serif text-xl font-bold md:text-2xl">
         <span className="text-amber-100">Raj</span> Kumar Giri
