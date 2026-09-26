@@ -3,7 +3,7 @@ import "remixicon/fonts/remixicon.css";
 
 const Education = () => {
   return (
-    <section className="bg-slate-950 px-8 py-9 text-white">
+    <section className="bg-slate-900 px-8 py-9 text-white border-t border-amber-100">
       <div className="grid grid-cols-1 gap-6 md:grid-cols-3">
 
         {/* Education */}

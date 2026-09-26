@@ -4,7 +4,7 @@ const Contact = () => {
   return (
     <section
       id="contact"
-      className="border-t border-slate-950 bg-slate-950 px-8 py-10 text-white"
+      className="border-t border-slate-950 bg-slate-800 px-8 py-10 text-white"
     >
       <div className="grid grid-cols-1 place-items-center">
 

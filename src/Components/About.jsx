@@ -3,7 +3,7 @@ import "remixicon/fonts/remixicon.css";
 
 const About = () => {
   return (
-    <section className="bg-slate-900 px-8 py-2 text-white">
+    <section className="bg-slate-900 px-8 py-2 text-white border-t border-amber-100">
       <div className="grid grid-cols-1 md:grid-cols-3">
 
         {/* About Me */}
